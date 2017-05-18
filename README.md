@@ -1,11 +1,13 @@
+
 Tic Tac Toe
 ===========
 
 An interactive two-player tic-tac-toe game.
 
+
 Usage
 -----
-Update this infu
+Update this info
 
 Example Execution
 -------
@@ -46,6 +48,7 @@ Player 2, please choose a cell: 8
 ```
 The game continues taking input from the users until one player wins or the board is full.
 
+
 Assignment Requirements
 -----------------------
 
@@ -60,7 +63,7 @@ Assignment Requirements
 * You must handle invalid user input gracefully.
 
 * You must choose one enhancement from the following list, or propose your own and get it pre-approved.
-    
+
 
 
 Enhancements
@@ -68,6 +71,7 @@ Enhancements
 * Allow a one-player game where a human plays against an AI.
 * Allow the users to chose the size of the board.
 * Allow more than two players to play.
+
 
 Structure Suggestions
 ---------------------
